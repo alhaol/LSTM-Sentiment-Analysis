@@ -1,0 +1,10 @@
+# Course Link 
+
+https://www.safaribooksonline.com/oriole/
+
+# Github Repo
+https://github.com/adeshpande3/LSTM-Sentiment-Analysis
+
+# Vector Representation
+https://www.tensorflow.org/tutorials/representation/word2vec
+
